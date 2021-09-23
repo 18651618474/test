@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\GoodsPriceApp\GoodsPriceApp\bin\Debug\GoodsPriceApp.exe
+C:\Users\admin\Desktop\GoodsPriceApp\GoodsPriceApp\bin\Debug\GoodsPriceApp.pdb
+C:\Users\admin\Desktop\GoodsPriceApp\GoodsPriceApp\obj\Debug\GoodsPriceApp.Properties.Resources.resources
+C:\Users\admin\Desktop\GoodsPriceApp\GoodsPriceApp\obj\Debug\GoodsPriceApp.TestMainForm.resources
+C:\Users\admin\Desktop\GoodsPriceApp\GoodsPriceApp\obj\Debug\GoodsPriceApp.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\GoodsPriceApp\GoodsPriceApp\obj\Debug\GoodsPriceApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GoodsPriceApp\GoodsPriceApp\obj\Debug\GoodsPriceApp.exe
+C:\Users\admin\Desktop\GoodsPriceApp\GoodsPriceApp\obj\Debug\GoodsPriceApp.pdb
+C:\Users\admin\Desktop\GoodsPriceApp\GoodsPriceApp\obj\Debug\GoodsPriceApp.csprojAssemblyReference.cache
